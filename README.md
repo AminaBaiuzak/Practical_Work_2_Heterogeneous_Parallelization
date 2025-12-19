@@ -1,0 +1,1 @@
+# Practical_Work_2_Heterogeneous_Parallelization
